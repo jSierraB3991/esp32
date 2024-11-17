@@ -1,0 +1,18 @@
+POR TAMANO
+1. MicroComputadoras
+1. MainFrames
+2. Super Computadoras
+
+
+POR FUNCION
+1. Servers
+2. Work Station
+3. Aplicacion informatica
+3. Embebidas
+
+
+
+PC EMBEBIDAD POR TIPO
+1. MicroProcesador          -> Atmel Mega
+2. Sistem On a Chip (SOC)   -> esp32
+3. Single Board Computer    -> rasberry pi

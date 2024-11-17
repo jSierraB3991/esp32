@@ -1,0 +1,19 @@
+-----------  PARA PRACTICAR  -----------
+Tarjeta de desarrollo basada en el dispositivo esp32
+Cable Usb a placa (micro-usb o tipo c)
+Protoboard, de 400 puntos
+Led rgb, de catado comun (existen de anodo comun)
+Alambres de conexion para protoboard   -  cables dupont (mas caros)
+Led color rojo ultra brillante
+1 Restiscencia de 220 ohms (para el led rojo)
+Press Buttons (botones de presionar)
+Resistencias de 10 Kohms (para los botones)
+Potenciometro o Trimpot (10Kohms)
+
+
+-----------  ADICIONALES  -----------
+Multimetro
+Pinzas de corte
+para comunicaciones LORA: TTGO / LYLYGO e incluye la radio LoRa
+
+-----------  PARA EL PROYECTO DEL CURSO  -----------

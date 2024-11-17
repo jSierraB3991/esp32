@@ -1,0 +1,33 @@
+documenrtacion: docs.espressif.com
+esp-idf: esp32 iot development framework
+
+Tipos de procesador de esp32
+    Xtensa
+    RISC-V
+
+-----------  Familia esp32  -----------
+base:
+    Core Xtensa LX6
+    Wifi
+    Bluetooth + Bluetooth de baja energia
+
+esp32-C
+    Cores RISC-V
+    Low Energy
+    Wifi
+    Bluetooth de baja energia
+
+esp32-S (bueno para procesamiento de voz, imagen, video)
+    Core Xtensa LX7
+    High Speed
+    Wifi
+    USB-OTG
+    Camera Interface
+    LCD Interface
+
+GPIO -> propisito gral, 
+ACD  -> convertir senales analogas en digitales
+RTC  -> lectores de senales analogas
+DAC  -> Convertir senales digitales en analogas
+GND  -> pin de tierra, en bateria es el negativo
+5V0  -> entrada de voltaje, en bateria es el positivo

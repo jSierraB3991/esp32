@@ -1,0 +1,25 @@
+1.  Capacidad de procesamiento
+2.  Procesamiento en paralelo
+3.  Memoria disponible y tipos de memoria
+4.  Eficiencia y consumo energetico
+5.  Velocidad del procesador
+6.  Co-procesadores disponibles
+7.  Entrada y salida
+8.  Oferta y demanda
+9.  Soporte
+10. Comunidad
+11. Experiencia previa
+12. Proyectos similares
+
+
+Alternativas:
+    esp32
+    stm32
+    rasberry pi pico
+
+Ejemplos con esp32:
+    Smartwatch
+    Radio Online
+    Herramientas de Hacking
+    Motion Sense
+    pequeno robot, 4 servo-motores
